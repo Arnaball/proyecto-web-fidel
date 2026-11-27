@@ -1,6 +1,14 @@
-*{
-    background-color: brown;
+* {
+  background-color: rgb(39, 15, 15);
 }
-h1{
-    font-family: 'Courier New', Courier, monospace;
+h1 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+a {
+  text-decoration: underline;
+}
+
+li {
+  text-transform: uppercase;
 }
